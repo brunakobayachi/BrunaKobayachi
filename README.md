@@ -1,6 +1,6 @@
-## Olá, meu nome é Bruna Kobayachi, tenho conhecimento em análise de dados e atualmente estou estudando para atuar com desenvolvimento backend!
+## Olá, meu nome é Bruna Kobayachi, tenho conhecimento em análise de dados e estou estudando para atuar com desenvolvimento backend!
 No momento estudando:
--  JavaScript
+- JavaScript
 - Node.js
 - React
 
