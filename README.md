@@ -2,6 +2,7 @@
 No momento estudando:
 -  JavaScript
 - Node.js
+- React
 
 <div align="center">
   <a href="https://github.com/brunakobayachi">
