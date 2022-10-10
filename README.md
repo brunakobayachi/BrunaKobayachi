@@ -4,6 +4,14 @@ No momento estudando:
 - Node.js
 - React
 
+<h2 align="center"> Linguagens e tecnologias</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,mysql,html,css,react,ts,prima,tailwind,vite,git&theme=light" />
+  </a>
+</p>
+
+
 <div align="center">
   <a href="https://github.com/brunakobayachi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunakobayachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
