@@ -7,7 +7,7 @@ No momento estudando:
 <h2 align="center"> Linguagens e tecnologias</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,mysql,html,css,react,ts,prima,tailwind,vite,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,mysql,html,css,react,ts,prisma,tailwind,vite,git&theme=dark" />
   </a>
 </p>
 
