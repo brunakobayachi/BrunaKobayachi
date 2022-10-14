@@ -1,28 +1,34 @@
-<h1 align="center"> Olá, meu nome é Bruna Kobayachi!  </h1>
-<h2 align="center"> Desenvolvedora Full Stack</h2>
-
- <p align="center"> Estou estudando para atuar como desenvolvedora junior!</p>
+ <h1 align="center"> Hi there 👋</h1>
  
-No momento estudando:
-- JavaScript
-- Node.js
-- React
+<p>
+    My name is Bruna, and <strong>I'm a FullStack development student!</strong>
+</p>
+ 
+📚 I'm currently studying:
+- 🚀 Node.js
+- ✨ React.js
 
-<h2 align="center"> Linguagens e tecnologias</h2>
-<p align="center">
+<br>
+
+<h2>💻 Technologies</h2> 
+
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,mysql,html,css,react,ts,prisma,tailwind,vite,git&theme=dark" />
   </a>
-</p>
+</div>
+<br>
 
-<h2 align="center">Stats</h2>
+<br>
+<h2>📊 Statistics</h2>
 <div align="center">
   <a href="https://github.com/brunakobayachi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunakobayachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakobayachi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<br>
 
-##  Social Media
+<h2>📱 Social Media</h2>
 <div align="center">
   <p>
 <a href="https://www.linkedin.com/in/bruna-ruri-kobayachi-a0390522b/"> 
