@@ -21,3 +21,16 @@ No momento estudando:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunakobayachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunakobayachi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+##  Social Media
+<div align="center">
+  <p>
+<a href="https://www.linkedin.com/in/bruna-ruri-kobayachi-a0390522b/"> 
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:brunakobayachi@gmail.com"> 
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a/>
+ <a href="https://www.instagram.com/brunakobayachi/"> 
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ <a/><br><br>
+</div>
