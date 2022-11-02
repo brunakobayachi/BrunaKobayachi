@@ -7,7 +7,6 @@
 📚 I'm currently studying:
 - 🚀 Node.js
 - ✨ React.js
-- ☕ Java
 
 <br>
 
