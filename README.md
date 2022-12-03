@@ -11,7 +11,6 @@
 <br>
 
 <h2>💻 Technologies</h2> 
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,docker,mysql,html,css,react,ts,sass,prisma,tailwind,vite,git&theme=dark" />
