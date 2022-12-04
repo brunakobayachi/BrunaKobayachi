@@ -38,4 +38,8 @@
  <a href="https://www.instagram.com/brunakobayachi/"> 
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  <a/><br><br>
+	 
+ <a href="https://bruna-portfolio.netlify.app/"> 
+	<img src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logoColor=white" />
+ <a/><br><br>
 </div>
