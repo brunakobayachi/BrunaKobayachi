@@ -1,7 +1,7 @@
  <h1 align="center"> Hi there 👋</h1>
  
 <p>
-    My name is Bruna, and <strong>I'm a FullStack development student!</strong>
+    My name is Bruna, and <strong>I'm a FullStack developer!</strong>
 </p>
  
 📚 I'm currently studying:
