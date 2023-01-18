@@ -4,7 +4,7 @@
     My name is Bruna, and <strong>I'm a FullStack developer!</strong>
 </p>
  
-💼 I'm currently working at [Sunize](https://www.sunize.com.br/) as a Fullstack developer
+💼 I'm currently working at [Sunize](https://www.sunize.com.br/) as a Fullstack developer.
 
 <br>
 
@@ -16,7 +16,6 @@
   <h3 align="left">🚀 BackEnd</h3> 
    <img src="https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,mysql,prisma&theme=dark" />
 </div>
-<br>
 
 <br>
 <h2>📊 Statistics</h2>
@@ -29,7 +28,6 @@
 
 <h2>📱 Social Media</h2>
 <div align="center">
-  <p>
 <a href="https://www.linkedin.com/in/brunakobayachi/"> 
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:brunakobayachi@gmail.com"> 
