@@ -4,17 +4,17 @@
     My name is Bruna, and <strong>I'm a FullStack developer!</strong>
 </p>
  
-📚 I'm currently studying:
-- 🚀 Node.js
-- ✨ React.js
+💼 I'm currently working at [Sunize](https://www.sunize.com.br/) as a Fullstack developer
 
 <br>
 
 <h2>💻 Technologies</h2> 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,mongodb,docker,mysql,html,css,react,ts,sass,prisma,tailwind,vite,git&theme=dark" />
-  </a>
+ <img src="https://skillicons.dev/icons?i=js,ts,py,git,vite&theme=dark" /> 
+  <h3 align="left">✨ FrontEnd</h3>  
+   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind,styledcomponents&theme=dark" /> 
+  <h3 align="left">🚀 BackEnd</h3> 
+   <img src="https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,mysql,prisma&theme=dark" />
 </div>
 <br>
 
