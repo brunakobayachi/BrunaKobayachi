@@ -8,13 +8,9 @@
 
 <br>
 
-<h2>💻 Technologies</h2> 
+<h2>💻 Tech Stack</h2> 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=js,ts,py,git,vite&theme=dark" /> 
-  <h3 align="left">✨ FrontEnd</h3>  
-   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,sass,tailwind,styledcomponents&theme=dark" /> 
-  <h3 align="left">🚀 BackEnd</h3> 
-   <img src="https://skillicons.dev/icons?i=nodejs,express,docker,mongodb,mysql,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,nextjs,vue,express,mongodb,mysql,prisma,py,sass,tailwind,styledcomponents,vite,aws,vercel&theme=dark" /> 
 </div>
 
 <br>
