@@ -10,7 +10,7 @@
 
 <h2>💻 Tech Stack</h2> 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,nextjs,vue,express,mongodb,mysql,prisma,py,sass,tailwind,styledcomponents,vite,aws,vercel&theme=dark" /> 
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,nextjs,vue,express,mongodb,mysql,prisma,docker,py,sass,tailwind,styledcomponents,vite,aws,vercel&theme=dark" /> 
 </div>
 
 <br>
