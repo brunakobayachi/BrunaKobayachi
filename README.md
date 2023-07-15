@@ -4,8 +4,7 @@
     My name is Bruna, and <strong>I'm a FullStack developer!</strong>
 </p>
  
-💼 I'm currently working at [Sunize](https://www.sunize.com.br/) as a Fullstack developer.
-
+💼 I'm currently working for the [Reality Kingdom](https://realitykingdom.xyz/) project.
 <br>
 
 <h2>💻 Tech Stack</h2> 
