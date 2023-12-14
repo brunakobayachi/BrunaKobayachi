@@ -6,6 +6,8 @@
  
 💼 I'm currently working at [BNP - Soluções em TI](https://bnpsolucoes.com.br/) company as a Jr. Front-end Developer.
 <br>
+📚 Currently learning C#
+<br>
 
 <h2>💻 Tech Stack</h2> 
 <div align="center">
