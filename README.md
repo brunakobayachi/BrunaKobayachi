@@ -1,12 +1,12 @@
  <h1 align="center"> Hi there 👋</h1>
  
 <p>
-    My name is Bruna, and <strong>I'm a FullStack developer!</strong>
+    My name is Bruna, and <strong>I'm a Fullstack developer!</strong>
 </p>
  
-💼 I'm currently working at [BNP - Soluções em TI](https://bnpsolucoes.com.br/) company as a Jr. Front-end Developer.
+💼 I'm currently working at [BNP - Soluções em TI](https://bnpsolucoes.com.br/) company as a Jr. Fullstack Developer.
 <br>
-📚 Currently learning C#
+📚 Currently improving myself 
 <br>
 
 <h2>💻 Tech Stack</h2> 
@@ -32,10 +32,6 @@
  <a/>
  <a href="https://www.instagram.com/brunakobayachi/"> 
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
- <a/><br><br>
-	 
- <a href="https://bruna-portfolio.netlify.app/"> 
-	<img src="https://img.shields.io/badge/portfolio-E4405F?style=for-the-badge&logoColor=white" />
  <a/><br><br>
 	 
 	 
