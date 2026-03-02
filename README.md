@@ -4,7 +4,7 @@
     My name is Bruna, and <strong>I'm a Fullstack developer!</strong>
 </p>
  
-💼 I'm currently working at [BNP - Soluções em TI](https://bnpsolucoes.com.br/) company as a Jr. Fullstack Developer.
+💼 I'm currently working at [BNP - Soluções em TI](https://bnpsolucoes.com.br/) company as a Mid level Fullstack Developer.
 <br>
 📚 Currently improving myself 
 <br>
